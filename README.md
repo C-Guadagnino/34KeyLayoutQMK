@@ -5,7 +5,7 @@
 
 ## Images of Layout
 
-* [Keyboard](boards.png)
-* [Keylayout level 0](layer0.png)
-* [Keylayout level 1](layer1.png)
-* [Keylayout level 2](layer2.png)
+! [Keyboard](boards.png)
+! [Keylayout level 0](layer0.png)
+! [Keylayout level 1](layer1.png)
+! [Keylayout level 2](layer2.png)
